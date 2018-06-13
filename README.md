@@ -1,0 +1,1 @@
+# Ak-Hadoop_Assignment-7_Hive-basics
